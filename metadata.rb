@@ -1,0 +1,7 @@
+name 'wso2is'
+maintainer 'rasanjaya subasinghe'
+maintainer_email 'rasanjaya@wso2.com'
+license 'all_rights'
+description 'Installs/Configures wso2is'
+long_description 'Installs/Configures wso2is'
+version '0.1.0'
