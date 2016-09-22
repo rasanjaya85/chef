@@ -1,4 +1,4 @@
-name 'wso2is'
+name 'wso2is3'
 maintainer 'rasanjaya subasinghe'
 maintainer_email 'rasanjaya@wso2.com'
 license 'all_rights'
