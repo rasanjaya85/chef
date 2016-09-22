@@ -1,5 +1,6 @@
 name 'wso2is32222'
 name 'test32222'
+test3 'test-remote'
 maintainer 'rasanjaya subasinghe'
 maintainer_email 'rasanjaya@wso2.com'
 license 'all_rights'
