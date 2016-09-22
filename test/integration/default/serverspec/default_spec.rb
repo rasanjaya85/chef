@@ -5,5 +5,6 @@ describe 'wso2is::default' do
   # http://serverspec.org/resource_types.html
   it 'does something' do
     skip 'Replace this with meaningful tests'
+    skip1 'Replace this with meaningful tests'
   end
 end
